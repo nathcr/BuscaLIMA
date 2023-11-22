@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='minimal',
+setup(name='BuscaLiMA',
       version='0.1',
-      description='A Python package for something',
-      url='http://github.com/rvf0068/minimal',
-      author='Yo Mero',
-      author_email='yomero@gmail.com',
+      description='creating a graphical minesweeper using python',
+      url='https://github.com/emafriki/BuscaLIMA,
+      author=['Alma Rocio Patiño Chavez',]
+      author_email=['pa401981@uaeh.edu.mx',]
       license='MIT',
-      packages=['minimal'],
+      packages=['BuscaLiMA'],
       zip_safe=False)
