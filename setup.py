@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='BuscaLiMA',
+setup(name='buscaminas',
       version='0.1',
       description='creating a graphical minesweeper using python',
       url='https://github.com/emafriki/BuscaLIMA,
